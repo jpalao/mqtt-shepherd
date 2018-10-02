@@ -29,8 +29,8 @@
     "smartobject": "^1.4.2"
   },
   "devDependencies": {
-    "chai": "^3.5.0",
-    "mocha": "^2.5.3",
+    "chai": "^4.2.0",
+    "mocha": "^3.5.3",
     "sinon": "^1.17.4",
     "sinon-chai": "^2.8.0"
   }
