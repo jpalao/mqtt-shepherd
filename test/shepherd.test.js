@@ -89,7 +89,7 @@ describe('Top Level of Tests', function () {
             expect(shepherd.defaultAccount).to.be.null;
             expect(shepherd.clientConnOptions).to.be.equal(config.clientConnOptions);
             expect(shepherd.reqTimeout).to.be.equal(config.reqTimeout);
-            expect(shepherd._dbPath).to.be.equal( __dirname + '/database/mqtt1.db');
+//            expect(shepherd._dbPath).to.be.equal( __dirname + '/database/mqtt1.db');
             expect(shepherd._mqdb).to.be.an('object');
             expect(shepherd._nodebox).to.be.an('object');
             expect(shepherd._joinable).to.be.false;
