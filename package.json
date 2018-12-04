@@ -1,6 +1,6 @@
 {
   "name": "mqtt-shepherd",
-  "version": "0.7.3",
+  "version": "0.7.4",
   "description": "Network server and manager for the lightweight MQTT machine network (LWMQN)",
   "main": "index.js",
   "scripts": {
@@ -21,7 +21,7 @@
     "busyman": "^0.3.0",
     "debug": "^2.2.0",
     "lwmqn-util": "^0.5.0",
-    "mosca": "git+https://github.com/jpalao/mosca",
+    "mosca": "git+https://github.com/jpalao/mosca.git",
     "mqtt": "^1.5.0",
     "nedb": "^1.4.0",
     "network": "^0.2.1",
