@@ -1,3 +1,3 @@
 test-all:
-	@./node_modules/.bin/mocha -u bdd --reporter spec
+	@./node_modules/.bin/mocha --exit -u bdd --reporter spec
 .PHONY: test-all
