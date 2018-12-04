@@ -21,7 +21,7 @@
     "busyman": "^0.3.0",
     "debug": "^2.2.0",
     "lwmqn-util": "^0.5.0",
-    "mosca": "^2.0.2",
+    "mosca": "git+https://github.com/jpalao/mosca",
     "mqtt": "^1.5.0",
     "nedb": "^1.4.0",
     "network": "^0.2.1",
@@ -30,7 +30,7 @@
   },
   "devDependencies": {
     "chai": "^4.2.0",
-    "mocha": "^3.5.3",
+    "mocha": "^5.2.0",
     "sinon": "^1.17.4",
     "sinon-chai": "^2.8.0"
   }
